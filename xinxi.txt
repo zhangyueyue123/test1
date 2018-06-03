@@ -1,0 +1,38 @@
+邓科长座机电话： 87366496
+四川账户密码：，
+sqlservers  sa 密码  qh123    Rain 20-20  rain08_08
+TM  581 506 131  密码 6143
+公共机器 438 160 252  密码 123456
+20服务器密码 qhpj1234  scqh123
+31  qspj/qhpj
+
+
+FTP下载国家干旱指数文件
+	106.120.82.187 / 111.205.50.221 
+登录（用户名：sichuan，密码：123456）
+
+四川省气象局 网线连接
+IP；
+255.255.255.0
+10.194.59.1
+DNS
+61.139.2.69
+\\172.24.2.62\disk1\infor\QyZLkFile\XnJxhBwZLK\
+四川精细化预报目录
+ \\172.24.2.62\disk1\infor\QyZLkFile\XnJxhBwZLK\ 
+     用户 ： comm  密码:  qxtqxt
+
+四川欧洲精细化格点预报数据 \\172.24.2.31\new\micaps\ecmwf0125\TP\r24\
+地址 //172.24.2.31/new
+用户名 comm
+密码qxtqxt
+目录\micaps\ecmwf0125\TP\r24
+
+
+AIX服务器
+连接方式 telnet 端口 23
+超级用户密码 root/123456.com
+其他用户  qhyy/qhyy123  根目录 /yy
+	qhbh/qhbh123 根目录   /bh
+
+气候IBM 用户信息： qhpj/qhpj123   根目录 /qhpj 
